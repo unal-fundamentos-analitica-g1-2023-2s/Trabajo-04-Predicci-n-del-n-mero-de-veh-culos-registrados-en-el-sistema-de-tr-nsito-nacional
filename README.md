@@ -1,4 +1,4 @@
-# Trabajo-04-Predicci-n-del-n-mero-de-veh-culos-registrados-en-el-sistema-de-tr-nsito-nacional
+# Trabajo-04-Predicción-del-número-de-vehículos-registrados-en-el-sistema-de-tránsito-nacional
 
 Predicción del número de vehículos registrados en el sistema de tránsito nacional
 En este trabajo se abordará el problema de crear un modelo para predecir el número de vehículos registrados diariamente en el Registro Único Nacional de Tránsito (RUNT). Los datos para crear el modelo se encuentran en el drive del curso bajo el nombre "registro_autos_entrenamiento.xlsx".
@@ -36,3 +36,4 @@ El trabajo se calificará con los siguientes criterios:
 
 Nota: una variación mayor al 10% entre el $R^2$ calculado para el primer semestre de 2017 y para el primer semestre de 2018 hará que estos dos ítems de la calificación sean iguales a cero.
 
+- Notebook en GoogleColab : https://colab.research.google.com/drive/16fxr-ILp7_ksT-2GZ1vD30tak0DXf80W?authuser=6
