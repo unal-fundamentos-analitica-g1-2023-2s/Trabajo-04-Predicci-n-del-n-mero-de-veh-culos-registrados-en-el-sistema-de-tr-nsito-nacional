@@ -37,3 +37,5 @@ El trabajo se calificará con los siguientes criterios:
 Nota: una variación mayor al 10% entre el $R^2$ calculado para el primer semestre de 2017 y para el primer semestre de 2018 hará que estos dos ítems de la calificación sean iguales a cero.
 
 - Notebook en GoogleColab : https://colab.research.google.com/drive/16fxr-ILp7_ksT-2GZ1vD30tak0DXf80W?authuser=6
+
+- Reporte técnico : https://unal-fundamentos-analitica-g1-2023-2s.github.io/Trabajo-04-Prediccion-del-numero-de-vehiculos-registrados-en-el-sistema-de-transito-nacional/
